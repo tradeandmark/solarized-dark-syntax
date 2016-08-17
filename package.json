@@ -1,7 +1,7 @@
 {
   "name": "trademark-dark-syntax",
   "theme": "syntax",
-  "version": "1.0.2",
+  "version": "3.0.0",
   "description": "A dark syntax theme using the solarized colors",
   "repository": "https://github.com/tradeandmark/solarized-dark-syntax",
   "license": "MIT",
